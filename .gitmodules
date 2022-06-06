@@ -1,0 +1,9 @@
+[submodule "module-a"]
+	path = module-a
+	url = https://github.com/multiple-git-remotes/module-a
+[submodule "module-b"]
+	path = module-b
+	url = https://github.com/multiple-git-remotes/module-b
+[submodule "module-main"]
+	path = module-main
+	url = https://github.com/multiple-git-remotes/module-main
